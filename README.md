@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning php and python
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me discord: gav3x#0
-- 😄 Pronouns: robot
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: yes
 
 <!---
